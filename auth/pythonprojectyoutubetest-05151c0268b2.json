@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pythonprojectyoutubetest",
+  "private_key_id": "05151c0268b2a06cbd011b8b71e879883de9f28f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFIk+tbqA28+07\nx/PQ3d0RmKx2vTLODdMjePiO4FBiwKeLM5Xtr/XqvwzjlmtRetNtOM2tORKr76aJ\n/8J6oE3Z9mzsk52wX/dkHeP9Hp1uHbvm03v/P4Pa4bekcqili+ZltCCPAnNY8SNs\nct2/nIJPYTrlcmvu9f5rKik/qY5wGA9Ukl5OI4ca2whHSmcGH7Wl0W1MxiVFfYjI\nKkVulw0hWvws5mgFO8D8Fvej8tBmb1RkEzWRH6r4vsz2wLDW+Ihn4+m7Om0zyurD\nrGzdO0Vr8KGwHqV0HR7BKj9w6zyFTya4Ay4mhZRUB2Dkb++pel5h+R3FDY2lqI09\nCJ1ddzo7AgMBAAECggEASFKHr8WLss13xfxcB082GQwNjbxoxK7OvM9XRTenVit+\n7DNfOGXbTyWLSX24Xpq0sXfrATeUkY6o5yz1QP7JwQLGwF6BtiDnBoxuxcCzGiB/\nfLYu4hx/t9Aiiwrjs2RpgPt+DGlmPwWsrM9Rakg1iIDP1jjNv0vxbIh5vJjsoFOW\nEfuLEUKG+H/JRvG5M0kKYV2P9p5la3wYR9eHWyA9VREgyanZoPjT1gGD/fCvaiew\nBk+G9+9WlR//1hq6fym04rYtuIQuej00QT1jMuao/qhEtlh16bXDfo22ilNoJQrl\n3ynz12YCygC3hAm4J72DfRqDzWw1C9f16vbhBhEb+QKBgQDySMahJYzz9bRKET4z\nAEomjZQoy+J+5CZocEiXrSlDhACaiD1WszaJ2H7IX+DYF3mAZuRGsoDjFbCiISWF\nG7cQLerIsEjko9W2uck0arlH95S5yv6miIJqRpz3Hf3SObqT3DgT7StaTYTZD7tO\n+1SLj7xR1thMuFcLyJjMLfPTSQKBgQDQSzXa+SiRrO3d/bZiRl2Hh93wLgGd1Oge\nj36qr/+DYaCHH8j9nS+ZaoCQP3f5KXQtsW6crXq3zfIxGAzjk039jGC2dId25NTV\n2Ocg9MTo7agGd7zGiQ5Dl4mBzErAF57pxbqDhzENIXKaF/6Tr4JBlwLvOikyIGuc\nOR38phNdYwKBgE313PQ9gP1/MmQi6EDA9xsws1vtPxRVlYZFmxYzQfPXpdoTvKkJ\nQaNZZnJTZ6Yg55fJg+q7xX1MnWmOAOSz5lPucn3hO5NWpI4HehbDwJrHr7OY/hfY\nFR7dWeSqYeIjcUXitqiyyCBmkTjHNx5TAQFnXtF2sGL/bgL8qS4KG0sBAoGAOK//\nXDTrIZpaskvWUzCrS7NiZ3dd4UKMWaTb6EA13d+3/I5d+QfKaIpfquJbGGh7wePE\nIsfj2homi83r1BPG6fZGa+GS7HyioACEBqgW3v2u+POlYLL0OtkHB1g+D8Fd8mlp\ntVoZs2Ui92UIV9EwNgGPPuQpSgcgwkeZLaVVJ9kCgYBj+CK4T59VFoupM13P3gUr\n9v4mcQFfR45lmY7lbCfbwOWfG3sRxp5mkXFQ8jZHJOcfTUyDnvhJCNHVAXcKZn9K\nmo2N7KfqlU2jBbSAoeW8ci3kml79G+FeYZ0IFc7UfZFa0aPCD/JEL+A+GRl7cmhB\nUzy91Dpxq+9Amme3qo+JgQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "misotube-project@pythonprojectyoutubetest.iam.gserviceaccount.com",
+  "client_id": "113807527502038806715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/misotube-project%40pythonprojectyoutubetest.iam.gserviceaccount.com"
+}
